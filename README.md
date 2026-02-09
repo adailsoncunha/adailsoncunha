@@ -1,29 +1,29 @@
-#### Olá, eu sou o Adaílson Cunha 🧑‍🎓🫰
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adailsoncunha/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cunhaig/)
+👨‍💻 Adaílson Cunha
 
-#### Tecnologias de estudo
+Protheus | ADVPL | Backend Java | Integrações Empresariais
 
-🚀 Adailson Cunha
+Desenvolvedor focado em sistemas empresariais, customizações Protheus, ADVPL e backend Java com APIs.
+Atuo na construção de soluções para automação de processos, integrações e produtos internos para empresas.
 
-Desenvolvedor focado em Backend, Sistemas Empresariais (TOTVS Protheus / ADVPL) e Aplicações Web.
-Interesse em automação de processos, integrações, dados e soluções para empresas.
-
-👨‍💻 Sobre mim
-🔧 Analista / Desenvolvedor Protheus
+🎯 Especialidades
+🏢 TOTVS Protheus
 🧠 Desenvolvimento ADVPL
-☕ Backend com Java + Spring Boot
-🗄️ SQL Server / PostgreSQL
-🌐 APIs e sistemas web
-📊 Projetos voltados a automação e dados
-🎯 Construindo portfólio técnico prático
+☕ Backend Java + Spring Boot
+🔗 APIs REST e integrações
+🗄️ SQL Server e PostgreSQL
+⚙️ Automação de rotinas empresariais
+📊 Sistemas orientados a dados
 
+🧰 Stack Técnica
+Linguagens & ERP | Backend | Banco de Dados | Ferramentas
 
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adailsoncunha&show_icons=true&theme=tokyonight&count_private=true" />
-  
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adailsoncunha&layout=compact&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=adailsoncunha&theme=tokyonight" />
+🧩 Tipos de Projetos que Desenvolvo
+📦 Integrações com Protheus
+📄 Automação de processos de RH e faturamento
+🔗 APIs para consulta de dados empresariais
+📊 Relatórios e rotinas customizadas
+🛒 Sistemas web internos
+📬 Sistemas de envio automático de documentos
 
 
 
