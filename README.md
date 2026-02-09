@@ -32,15 +32,11 @@ Linguagens & ERP | Backend | Banco de Dados | Ferramentas
 <p align="left"> <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adailsoncunha&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adailsoncunha&layout=compact&theme=tokyonight" /> </p> <img src="https://streak-stats.demolab.com?user=adailsoncunha&theme=tokyonight" />
 
 📌 Projetos de Portfólio (em evolução)
-API de consulta de estoque Protheus
-Sistema de envio de holerites
-Controle de compras mensais
-Rotinas ADVPL de automação
+- API de consulta de estoque Protheus
+- Sistema de envio de holerites
+- Controle de compras mensais
+- Rotinas ADVPL de automação
 
-
-- item 1
-- item 2
-- item 3
 
 
 
