@@ -9,7 +9,7 @@
 Desenvolvedor focado em Backend, Sistemas Empresariais (TOTVS Protheus / ADVPL) e Aplicações Web.
 Interesse em automação de processos, integrações, dados e soluções para empresas.
 
-<p align="left">
+
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adailsoncunha&show_icons=true&theme=tokyonight&count_private=true" />
   
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adailsoncunha&layout=compact&theme=tokyonight" />
