@@ -14,8 +14,10 @@
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<div>
-</div>
+
 <img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula)
+<p alingn="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=adailsoncunha_icons=true&theme=dracula" >
+</p>
+
+
