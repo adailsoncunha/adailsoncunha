@@ -23,5 +23,7 @@
 
 </p>
 
+<img src="https://github-readme-stars.vercel.app/api/top—langs/?username=adailsoncunha&layout=compact&theme=tokyonight" />
+
 
 
