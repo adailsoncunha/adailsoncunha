@@ -17,7 +17,7 @@
 
 <img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
 
-<p alingn="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=adailsoncunha_icons=true&theme=dracula" >
-</p>
+<img alingn="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=adailsoncunha_icons=true&theme=dracula" >
+
 
 
