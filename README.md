@@ -22,7 +22,6 @@ Interesse em automação de processos, integrações, dados e soluções para em
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adailsoncunha&show_icons=true&theme=tokyonight&count_private=true" />
   
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adailsoncunha&layout=compact&theme=tokyonight" />
-</p>
 
 <img src="https://streak-stats.demolab.com?user=adailsoncunha&theme=tokyonight" />
 
