@@ -9,8 +9,8 @@ Protheus | ADVPL | Backend Java | Integrações Empresariais
 Desenvolvedor focado em sistemas empresariais, customizações Protheus, ADVPL e backend Java com APIs.
 Atuo na construção de soluções para automação de processos, integrações e produtos internos para empresas.
 
-*🎯 Especialidades
-*🏢 TOTVS Protheus
+-🎯 Especialidades
+-🏢 TOTVS Protheus
 *🧠 Desenvolvimento ADVPL
 *☕ Backend Java + Spring Boot
 *🔗 APIs REST e integrações
