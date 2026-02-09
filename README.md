@@ -9,6 +9,15 @@
 Desenvolvedor focado em Backend, Sistemas Empresariais (TOTVS Protheus / ADVPL) e Aplicações Web.
 Interesse em automação de processos, integrações, dados e soluções para empresas.
 
+👨‍💻 Sobre mim
+🔧 Analista / Desenvolvedor Protheus
+🧠 Desenvolvimento ADVPL
+☕ Backend com Java + Spring Boot
+🗄️ SQL Server / PostgreSQL
+🌐 APIs e sistemas web
+📊 Projetos voltados a automação e dados
+🎯 Construindo portfólio técnico prático
+
 
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adailsoncunha&show_icons=true&theme=tokyonight&count_private=true" />
   
