@@ -21,9 +21,9 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=adailsoncunha&show_icons=true&theme=tokyonight&acount=private" />
 
-</p>
-
 <img src="https://github-readme-stars.vercel.app/api/top—langs/?username=adailsoncunha&layout=compact&theme=tokyonight" />
+
+</p>
 
 
 
