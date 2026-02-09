@@ -37,11 +37,7 @@ Linguagens & ERP | Backend | Banco de Dados | Ferramentas
 - Controle de compras mensais
 - Rotinas ADVPL de automação
 
-Backend: Java • Spring Boot • ADVPL • REST API
-Banco de Dados: PostgreSQL • SQL Server
-Web: HTML • CSS • JavaScript
-ERP: TOTVS Protheus
-Ferramentas: Git • GitHub • VS Code • IntelliJ
+
 
 
 
