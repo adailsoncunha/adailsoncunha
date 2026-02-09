@@ -10,7 +10,7 @@ Desenvolvedor focado em Backend, Sistemas Empresariais (TOTVS Protheus / ADVPL) 
 Interesse em automação de processos, integrações, dados e soluções para empresas.
 
 👨‍💻 Sobre mim
-🔧 Analista / Desenvolvedor Protheus
+🔧 Analista / Desenvolvedor Protheus<p>
 🧠 Desenvolvimento ADVPL
 ☕ Backend com Java + Spring Boot
 🗄️ SQL Server / PostgreSQL
