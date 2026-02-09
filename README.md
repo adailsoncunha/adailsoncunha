@@ -2,8 +2,6 @@
 
 LinkedIn: https://www.linkedin.com/in/adailsoncunha/
 
-Instagram: https://www.instagram.com/cunhaig/
-
 Protheus | ADVPL | Backend Java | Integrações Empresariais
 
 Desenvolvedor focado em sistemas empresariais, customizações Protheus, ADVPL e backend Java com APIs.
