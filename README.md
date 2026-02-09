@@ -4,18 +4,10 @@
 
 #### Tecnologias de estudo
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+🚀 Adailson Cunha
 
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+Desenvolvedor focado em Backend, Sistemas Empresariais (TOTVS Protheus / ADVPL) e Aplicações Web.
+Interesse em automação de processos, integrações, dados e soluções para empresas.
 
 <p align="left">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adailsoncunha&show_icons=true&theme=tokyonight&count_private=true" />
